@@ -16,9 +16,6 @@ Introducing the **Solana PumpFun Copy Trading Bot** written in **Rust** 🦀, de
 - **Robust Security**: Rust's safety guarantees minimize bugs and vulnerabilities
 - **Configurable Parameters**: Customizable slippage and amount settings for risk management
 
-
-
-
 ### 📊 Monitoring Capabilities
 - **Wallet Tracking**: Monitor specific wallets for trading signals
 - **Multiple RPC Support**: Compatible with various Solana RPC providers
@@ -73,10 +70,6 @@ LOG_LEVEL=debug
 cargo build --release
 cargo run --release
 ```
-
-## Support
-
-For support and inquiries, please connect via Telegram: 📞 [Benjamin](https://t.me/blockchainDeveloper_Ben)
 
 ## License
 
